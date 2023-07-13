@@ -1,0 +1,12 @@
+{
+  "server": {
+    "addr": ":8090",
+    "read_timeout": 10,
+    "write_timeout": 10
+  },
+  "db": {
+    "host": "localhost",
+    "port": 27017,
+    "db_name": "text_cdn"
+  }
+}
